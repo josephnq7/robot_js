@@ -182,7 +182,7 @@ RobotMazeInterface.prototype.renderControls = function () {
                             callExitMaze();
                         }
                         return result;
-                    }, 300);
+                    }, 2000);
                 })();
             }
         };
